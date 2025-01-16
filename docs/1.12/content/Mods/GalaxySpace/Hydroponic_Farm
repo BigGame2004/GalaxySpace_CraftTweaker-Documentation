@@ -6,7 +6,7 @@
 ## Addition
 
 ```zenscript
-//mods.galaxyspace.addHydroponicFarmRecipe(IItemStack seed input, IItemStack output, IItemStack secondary product, int secondary changes, int stages, IBlock block, boolean product random, boolean secondary product random);
+//mods.galaxyspace.addHydroponicFarmRecipe(IItemStack seed_input, IItemStack output, IItemStack secondary_product, int secondary_changes, int stages, IBlock block, boolean product_random, boolean secondary_product_random);
 
 mods.galaxyspace.addHydroponicFarmRecipe(<minecraft:brown_mushroom>, <minecraft:brown_mushroom>, <minecraft:brown_mushroom>, 100, 100, <minecraft:brown_mushroom>, true, true);
 ```
