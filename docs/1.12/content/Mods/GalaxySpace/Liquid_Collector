@@ -1,0 +1,12 @@
+# Liquid Collector
+
+## Package
+`mods.galaxyspace`
+
+## Addition
+
+```zenscript
+//mods.galaxyspace.addLiquidExtractorRecipe(IBlock, ILiquidStack output);
+
+mods.galaxyspace.addLiquidExtractorRecipe(<minecraft:magma>, <liquid:lava>);
+```
