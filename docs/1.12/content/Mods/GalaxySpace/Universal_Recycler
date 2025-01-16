@@ -6,7 +6,7 @@
 ## Addition
 
 ```zenscript
-//mods.galaxyspace.addRecyclerRecipe(IItemStack input, IItemStack output, optional IItemStack output, ILiquidStack output, int chances);
+//mods.galaxyspace.addRecyclerRecipe(IItemStack input, IItemStack output, ILiquidStack output, int chances);
 
 mods.galaxyspace.addRecyclerRecipe(<minecraft:stone:5>, <minecraft:cobblestone>, <liquid:water> * 10, 100);
 ```
