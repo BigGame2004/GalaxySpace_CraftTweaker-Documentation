@@ -1,0 +1,20 @@
+# Hydroponic Farm
+
+## Package
+`mods.galaxyspace`
+
+## Addition
+
+```zenscript
+//mods.galaxyspace.addHydroponicFarmRecipe(IItemStack seed input, IItemStack output, IItemStack secondary product, int secondary changes, int stages, IBlock block, boolean product random, boolean secondary product random);
+
+mods.galaxyspace.addHydroponicFarmRecipe(<minecraft:brown_mushroom>, <minecraft:brown_mushroom>, <minecraft:brown_mushroom>, 100, 100, <minecraft:brown_mushroom>, true, true);
+```
+
+## Removal
+
+```zenscript
+//mods.galaxyspace.removeHydroponicFarmRecipe(IItemStack seed input);
+
+mods.galaxyspace.removeHydroponicFarmRecipe(<minecraft:wheat_seeds>);
+```
