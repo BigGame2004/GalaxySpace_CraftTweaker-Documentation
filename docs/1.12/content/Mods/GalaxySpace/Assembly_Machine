@@ -8,7 +8,7 @@
 ```zenscript
 //mods.galaxyspace.addAssemblyRecipe(IItemStack Output, IItemStack Input...);
 
-mods.galaxyspace.addAssemblyRecipe(<minecraft:iron_block>, <minecraft:iron:ingot>, <minecraft:iron:ingot>, <minecraft:iron:ingot>,<minecraft:iron:ingot>, <minecraft:iron:ingot>, <minecraft:iron:ingot>, <minecraft:iron:ingot>, <minecraft:iron:ingot>, <minecraft:iron:ingot>);
+mods.galaxyspace.addAssemblyRecipe(<minecraft:iron_block>, <minecraft:iron_ingot>, <minecraft:iron_ingot>, <minecraft:iron_ingot>,<minecraft:iron_ingot>, <minecraft:iron_ingot>, <minecraft:iron_ingot>, <minecraft:iron_ingot>, <minecraft:iron_ingot>, <minecraft:iron_ingot>);
 ```
 
 ## Removal
