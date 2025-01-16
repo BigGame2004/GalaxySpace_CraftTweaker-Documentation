@@ -16,5 +16,5 @@ mods.galaxyspace.addRocketAssemblyRecipe(<minecraft:iron_block>, <minecraft:iron
 ```zenscript
 //mods.galaxyspace.removeRocketAssemblyRecipe(IItemStack output);
 
-mods.galaxyspace.removeRocketAssemblyRecipe(<galacticraftplanets:rocket_t3>)'
+mods.galaxyspace.removeRocketAssemblyRecipe(<galacticraftplanets:rocket_t3>);
 ```
