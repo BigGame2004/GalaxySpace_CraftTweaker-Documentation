@@ -847,6 +847,16 @@
           "IMachineSlot": "Mods/ExtraUtilities2/CustomMachines/IMachineSlot.md"
         }
       },
+      "Galaxy Space": {
+        "Assembly Machine": "Mods/GalaxySpace/Assembly_Machine.md",
+        "Fuel Generator": "Mods/GalaxySpace/Fuel_Generator.md",
+        "Gas Generator": "Mods/GalaxySpace/Gas_Generator.md",
+        "Hydroponic Farm": "Mods/GalaxySpace/Hydroponic_Farm.md",
+        "Liquid Collector"; "Mods/GalaxySpace/Liquid_Collector.md",
+        "Rocket Assembly Machine": "Mods/GalaxySpace/Rocket_Assembly_Machine.md",
+        "Universal Recycler": "Mods/GalaxySpace/Universal_Recycler.md"
+      }
+      },
       "GameStages": {
         "Introduction": "Mods/GameStages/GameStages.md",
         "Player features": "Mods/GameStages/Player_Stages.md",
